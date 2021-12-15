@@ -1,4 +1,4 @@
-# Mobile Application for Contact, Task, and Appointment Services.
+# Contact Service
 # How can I ensure that my code, program, or software is functional and secure?
 I can ensure that the software I develop is functional and secure by following the software industry's best practices for developing software. Part of following industry standards is employing known software testing techniques, such as dynamic and static testing. In addition to software testing, the software industry also has standards and best practices for producing quality and secure applications that serve a purpose and meet their organization's requirements.
 
